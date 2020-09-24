@@ -1,0 +1,30 @@
+.nav-wrapper{
+    background-color: #6f4037;
+}
+.slider .indicators .indicator-item.active{
+    background-color: #6f4037;
+}
+.Header3{
+    background-color: black;
+}
+.move{
+   margin-top: 30px;
+}
+
+.Rcolor{
+    background-color: #6f4037;
+}
+.cmargin{
+    margin-bottom: 50px;
+    background-color: aqua;
+}
+
+.page-footer{
+
+    background-color: #6f4037;
+}
+
+
+.font{
+    font-family: 'swap';
+}
